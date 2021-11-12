@@ -4,4 +4,5 @@ project(web_server_example)
 
 include(ExternalProject)
 
+add_subdirectory(zlib)
 
