@@ -4,3 +4,6 @@
 [submodule "external/libiconv"]
 	path = external/libiconv
 	url = https://git.savannah.gnu.org/git/libiconv.git
+[submodule "external/gnulib"]
+	path = external/gnulib
+	url = git://git.savannah.gnu.org/gnulib.git
