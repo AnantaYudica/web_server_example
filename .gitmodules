@@ -7,3 +7,6 @@
 [submodule "external/gnulib"]
 	path = external/gnulib
 	url = git://git.savannah.gnu.org/gnulib.git
+[submodule "external/automake"]
+	path = external/automake
+	url = git://git.savannah.gnu.org/automake.git
